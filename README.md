@@ -1,2 +1,3 @@
-# unity-device-type-detection
-Detect phones and tablets in Unity for Android and iOS (iPhone and iPad) using screen size, aspect ratio, and native device configuration.
+# Unity Device Type Detection
+
+A lightweight C# utility to detect whether a device is a phone or tablet in Unity, supporting Android phones and tablets, iPhones, and iPads.
